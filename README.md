@@ -1,5 +1,4 @@
 ![My personal image](docs/assets/aa_white.png)
-img[alt=My personal image] { width: 200px; }
 
 # Hi my name is Anthony!
 
