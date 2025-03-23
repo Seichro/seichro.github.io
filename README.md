@@ -1,4 +1,4 @@
-<img src=docs/assets/aa_white.png alt="My personal image" width="200"/>
+![My personal image](docs/assets/aa_white.png)
 
 # Hi my name is Anthony!
 
