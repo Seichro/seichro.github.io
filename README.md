@@ -1,4 +1,4 @@
-![My personal image](docs/assets/aa_white.png)
+![My personal image](docs/assets/aa_white.png | width = 100)
 
 # Hi my name is Anthony!
 
