@@ -1,4 +1,4 @@
-<img src=docs/assets/aa_white.png alt="My personal image" width="300" height="300">
+<center><img src=docs/assets/aa_white.png alt="My personal image" width="300" height="300">
 
 # Hi my name is Anthony!
 
