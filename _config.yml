@@ -1,5 +1,11 @@
-title: Anthony Abubakar
-logo: docs/assets/aa_white.png
+# title: Anthony Abubakar
+# logo: docs/assets/aa_white.png
 description: Junior Computer Science Student | TxACE Research Intern | Undergraduate Research Assistant @ UARS
 #shown_downloads: true
 theme: minima
+minima:
+  skin: dark
+  social_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/anthony-abubakar-017a4b24a/"
