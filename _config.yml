@@ -4,7 +4,7 @@ description: Senior Computer Science Student @ UT Dallas
 theme: minima
 
 minima:
-  skin: dark
+  skin: solarized-dark
   social_links:
     - title: LinkedIn
       icon: linkedin
