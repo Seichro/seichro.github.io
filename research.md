@@ -11,6 +11,7 @@ title: Research
 </div>
 
 ### MIT Haystack Observatory — Uncovering ionospheric data from incoherent scatter radar plasma line measurements
+Mentor: **Dr. Enrique Rojas**, Ms. Katherine Cariglia, Dr. Nestor Aponte, and **Mr. William B. Rideout**
 
 At the **MIT Haystack Observatory**, I work on analyzing *plasma line spectra* from the **Millstone Hill Incoherent Scatter Radar (ISR)** to understand ionospheric electron dynamics.  
 My research focuses on extracting **electron density and temperature profiles** from radar spectra by using efficient parameter fitting.
@@ -29,8 +30,9 @@ This involves developing custom Python pipelines for:
 </div>
 
 ### University of Texas at Dallas — Upper Atmosphere Remote Sensing Lab
+Mentor: Mr. Alexander A. Massoud, **Dr. Fabiano S. Rodrigues**
 
-At the **University of Texas at Dallas**, under the **UARS (Upper Atmosphere Radar Sciences)** group, I work with **ISR data analysis and LWA**.  
+At the **University of Texas at Dallas**, under the **UARS (Upper Atmosphere Remote Sensing)** group, I work with **ISR data analysis and Long Wavelength Array (LWA)**.  
 
 This project involved the process of:
 - Filtering using quiet-time low-error measurements unaffected by Solar flux
