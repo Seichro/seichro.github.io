@@ -30,21 +30,14 @@ This involves developing custom Python pipelines for:
 
 ### University of Texas at Dallas — Upper Atmosphere Remote Sensing Lab
 
-At the **University of Texas at Dallas**, under the **UARS (Upper Atmosphere Radar Sciences)** group, I work with **radar signal modeling and automation**.  
-Our focus is on **coherent scatter detection**, signal classification, and **AI-based denoising** of radar data for improved real-time sensing.  
+At the **University of Texas at Dallas**, under the **UARS (Upper Atmosphere Radar Sciences)** group, I work with **ISR data analysis and LWA**.  
 
-I’m currently extending this research toward:
-- AI-driven radar feature extraction  
-- Scalable data pipelines for atmospheric monitoring  
-- Integrating signal-processing techniques for adaptive detection thresholds
+This project involved the process of:
+- Filtering using quiet-time low-error measurements unaffected by Solar flux
+- Data analaysis automation for >300 days of ISR data
+- Investigation of ISR data with long-standing machine learning problems
 
----
-
-### Current Projects
-
-- **Millstone Hill ISR Plasma Line Analysis** — modeling the ionosphere using spectral fitting  
-- **AI-Based Deconvolution Methods** — improving resolution in ISR spectra  
-- **Real-time Radar Signal Classification** — at UARS, UT Dallas  
+** A paper is in preparation for this project. **
 
 ---
 
