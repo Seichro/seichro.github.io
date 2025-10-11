@@ -25,3 +25,5 @@ logo: docs/assets/pfp.png
 # If this is a project site (not username.github.io), you may set these later:
 # url: "https://<your-username>.github.io"
 # baseurl: "/<your-repo-name>"
+show_excerpts: false
+footer_links: []
