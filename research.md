@@ -37,7 +37,7 @@ This project involved the process of:
 - Data analaysis automation for >300 days of ISR data
 - Investigation of ISR data with long-standing machine learning problems
 
-** A paper is in preparation for this project. **
+**A paper is in preparation for this project**.
 
 ---
 
