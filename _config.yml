@@ -17,6 +17,7 @@ header_pages:
   - index.md
   - academics.md
   - research.md
+  - projects.md
 
 markdown: kramdown
 
