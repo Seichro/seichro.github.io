@@ -6,7 +6,7 @@ title: Home
 <div align="center">
   <img src="docs/assets/pfp.jpeg" alt="Profile photo" width="180" style="border-radius: 50%; margin-bottom: 10px;">
   
-  <h1>Anthony Abubakar</h1>
+  <h1>anthony a. abubakar</h1>
   <p><em>Senior Computer Science Student @ UT Dallas </em></p>
 </div>
 
