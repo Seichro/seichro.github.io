@@ -16,9 +16,10 @@ My interest in space physics began during my first semester of research in the U
 - Introduction to Electromagnetic Compatibility and Applications of RF Engineering - A
 - Automata Theory - A
 
-** Extracurricular Achievements: **
+**Extracurricular Achievements:**
 - 3x Hackathon winner at the biggest hackathons in Texas
-- Cybersecurity CTF winner @ Tennessee Technological University
 - 3x Medalist in Collegiate Powerlifting
+- 5x Dean's List
+- Cybersecurity CTF winner @ Tennessee Technological University
 
 Return to [Home](index.html) or go to [Research](research.html).
