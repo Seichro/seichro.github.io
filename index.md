@@ -28,7 +28,7 @@ title: Home
 ### Welcome
 
 I’m a senior studying **Computer Science** at UT Dallas and an active researcher in geospace.  
-Currently, I work with the **Upper Atmosphere Remote Sensing Lab**, **MIT Haystack Observatory**, and **Research Center**, where I focus on radar data analysis and machine learning.
+Currently, I work with the **Upper Atmosphere Remote Sensing Lab**, **MIT Haystack Observatory**, and **Texas Analog Center of Excellence**, where I focus on ISR data analysis and federated learning.
 
 This site serves as an overview of my academic background and current research work.
 
