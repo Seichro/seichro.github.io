@@ -7,24 +7,24 @@ title: Home
   <img src="docs/assets/pfp.jpeg" alt="Profile photo" width="180" style="border-radius: 50%; margin-bottom: 10px;">
   
   <h1>Anthony Abubakar</h1>
-  <p><em>Junior Computer Science Student · TxACE Research Intern · Undergraduate Research Assistant @ UARS</em></p>
+  <p><em>Senior Computer Science Student @ UT Dallas </em></p>
 </div>
 
 ---
 
-### 👋 Welcome
+### Welcome
 
-I’m a junior studying **Computer Science**, passionate about **signal processing**, **plasma physics**, and **applied AI systems**.  
-Currently, I work with the **TxACE Research Center** and the **University of Alabama Radar Sciences Group (UARS)**, where I focus on advanced radar data analysis and algorithmic modeling.
+I’m a senior studying **Computer Science** at UT Dallas and am an active researcher in geospace.  
+Currently, I work with the **Upper Atmosphere Remote Sensing Lab**, **MIT Haystack Observatory**, and **Research Center**, where I focus on radar data analysis and machine learning.
 
 This site serves as an overview of my academic background and current research work.
 
 ---
 
-### 📚 Explore
+### Explore
 
-- [Academics](academics.html) — coursework, projects, and relevant skills  
-- [Research](research.html) — ongoing work, publications, and technical interests
+- [Academics](academics.md) — coursework, projects, and relevant skills  
+- [Research](research.md) — ongoing work, publications, and technical interests
 
 ---
 
