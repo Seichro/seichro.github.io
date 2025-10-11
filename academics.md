@@ -22,4 +22,11 @@ My interest in space physics began during my first semester of research in the U
 - 5x Dean's List
 - Cybersecurity CTF winner @ Tennessee Technological University
 
+**Organizations Involved:**
+- Association of Computing Machinery
+- Phi Kappa Phi
+- American Insitute of Aeronatuics and Astronautics
+- Phi Delta Theta
+- Powerlifting Club
+
 Return to [Home](index.html) or go to [Research](research.html).
