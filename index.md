@@ -38,5 +38,3 @@ This site serves as an overview of my academic background and current research w
 
 - [Academics](academics.html) — coursework, projects, and relevant skills  
 - [Research](research.html) — ongoing work, publications, and technical interests
-
----
