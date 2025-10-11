@@ -24,6 +24,7 @@ FaultFinder applies automated commonsense reasoning to car accidents. Given stru
 # [DriveGuardian](https://devpost.com/software/driveguardian)
 
 DriveGuardian is an AI safety application that analyzes driving behavior (e.g., distraction, drowsiness, impaired driving, lane keeping) and delivers real-time feedback and coaching. The team prototyped models with a large driving dataset and outlined pathways for gamification, insurer partnerships, and vehicle-system integration. Built with Python, Jupyter, and YOLOv5; recognized as a *Winner — Saints Challenge* at HackAI 2023.
+
 ---
 
 # [Horizon](https://devpost.com/software/horizon-c4h13j)
