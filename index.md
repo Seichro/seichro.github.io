@@ -40,7 +40,3 @@ This site serves as an overview of my academic background and current research w
 - [Research](research.html) — ongoing work, publications, and technical interests
 
 ---
-
-<div align="center">
-  <sub>© 2025 Anthony Abubakar · Built with ❤️ using GitHub Pages</sub>
-</div>
