@@ -1,11 +1,27 @@
-# title: Anthony Abubakar
-# logo: docs/assets/aa_white.png
-description: Junior Computer Science Student | TxACE Research Intern | Undergraduate Research Assistant @ UARS
-#shown_downloads: true
+title: Anthony A. Abubakar
+description: Senior Computer Science Student @ UT Dallas
+
 theme: minima
+
 minima:
   skin: dark
   social_links:
     - title: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/anthony-abubakar-017a4b24a/"
+    # - title: GitHub
+    #   icon: github
+    #   url: "https://github.com/<your-username>"
+
+header_pages:
+  - index.md
+  - academics.md
+  - research.md
+
+markdown: kramdown
+
+logo: docs/assets/pfp.png
+
+# If this is a project site (not username.github.io), you may set these later:
+# url: "https://<your-username>.github.io"
+# baseurl: "/<your-repo-name>"
