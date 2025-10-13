@@ -37,7 +37,7 @@ At the **University of Texas at Dallas**, under the **UARS (Upper Atmosphere Rem
 This project involved the process of:
 - Filtering using quiet-time low-error measurements unaffected by Solar flux
 - Data analaysis automation for >300 days of ISR data
-- Investigation of ISR data with long-standing machine learning problems
+- Investigation of ISR data with long-standing empirical and machine learning models
 
 **A paper is in preparation for this project**.
 
