@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div align="center">
-  <img src="docs/assets/AGU2025.jpg" alt="Profile photo" width="180" style="border-radius: 50%; margin-bottom: 10px;">
+  <img src="docs/assets/AGU2025.jpg" alt="Profile photo" width="180" style="margin-bottom: 10px;">
 
   <h1>anthony a. abubakar</h1>
   <p><em>Senior Computer Science Student @ UT Dallas</em></p>
