@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div align="center">
-  <img src="docs/assets/pfp.jpeg" alt="Profile photo" width="180" style="border-radius: 50%; margin-bottom: 10px;">
+  <img src="docs/assets/Abubakar_Anthony_438-2294.jpg" alt="Profile photo" width="180" style="border-radius: 50%; margin-bottom: 10px;">
 
   <h1>anthony a. abubakar</h1>
   <p><em>Senior Computer Science Student @ UT Dallas</em></p>
@@ -28,7 +28,7 @@ title: Home
 ### Welcome
 
 I’m a senior studying **Computer Science** at UT Dallas and an active researcher in geospace.  
-Currently, I work with the **Upper Atmosphere Remote Sensing Lab**, **MIT Haystack Observatory**, and **Texas Analog Center of Excellence**, where I focus on ISR data analysis and federated learning.
+Currently, I work with the **Upper Atmosphere Remote Sensing Lab**, **MIT Haystack Observatory**, and **Texas Analog Center of Excellence**, where I focus on incoherent scatter radar (ISR) and federated learning.
 
 This site serves as an overview of my academic background and current research work.
 
