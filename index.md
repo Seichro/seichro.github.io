@@ -3,21 +3,8 @@ layout: default
 title: Home
 ---
 
-.profile-square {
-  width: 180px;
-  height: 180px;
-  object-fit: cover;
-  object-position: center;
-  border-radius: 12px; /* remove this if you want sharp corners */
-}
-
 <div align="center">
   <img src="docs/assets/Abubakar_Anthony_438-2294.jpg" alt="Profile photo" width="180" style="border-radius: 50%; margin-bottom: 10px;">
-  <img 
-  src="docs/assets/Abubakar_Anthony_438-2294.jpg"
-  alt="Profile photo"
-  class="profile-square"
-/>
 
   <h1>anthony a. abubakar</h1>
   <p><em>Senior Computer Science Student @ UT Dallas</em></p>
