@@ -23,10 +23,10 @@ My interest in space physics began during my first semester of research in the U
 - Cybersecurity CTF winner @ Tennessee Technological University
 
 **Organizations Involved:**
-- Association of Computing Machinery
-- Phi Kappa Phi
-- American Insitute of Aeronatuics and Astronautics
-- Phi Delta Theta
-- Powerlifting Club
+- Member, Association of Computing Machinery
+- Member, Phi Kappa Phi (Academic Honor Society)
+- Affiliate, Sigma Xi (Research Honor Society)
+- Member, American Insitute of Aeronatuics and Astronautics
+- Member, Phi Delta Theta
 
 Return to [Home](index.html) or go to [Research](research.html).
