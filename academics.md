@@ -28,5 +28,6 @@ My interest in space physics began during my first semester of research in the U
 - Affiliate, Sigma Xi (Research Honor Society)
 - Member, American Insitute of Aeronatuics and Astronautics
 - Member, Phi Delta Theta
+- Affiliate, Sigma Xi Scientific Research Honor Society
 
 Return to [Home](index.html) or go to [Research](research.html).
