@@ -39,7 +39,7 @@ This project involved the process of:
 - Data analaysis automation for >300 days of ISR data
 - Investigation of ISR data with long-standing empirical and machine learning models
 
-**A coauthored paper is in-press in the Advances in Space Research journal for this work.**.
+**A coauthored paper is in-press in the Advances in Space Research journal for this work**.
 
 ---
 
